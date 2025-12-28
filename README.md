@@ -38,7 +38,7 @@ Temporary or disposable workstations
 
 Bitcoin Core is configured to use relative paths
 
-All data directories (wallets, blocks, chainstate, bitcoin.conf) are stored locally
+The wallet must be selected, and data will be created in the current folder. The block and blockchain data will be downloaded. An internet connection is required for this.
 
 No system installation or administrator privileges required
 
