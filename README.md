@@ -1,4 +1,4 @@
-#Bitcoin Core – Portable Edition
+Bitcoin Core – Portable Edition
 Overview
 
 Bitcoin Core – Portable Edition is a ported version of Bitcoin Core designed to run without installation.
