@@ -1,4 +1,4 @@
-Bitcoin Core – Portable Edition
+## Bitcoin Core – Portable Edition
 Overview
 
 Bitcoin Core – Portable Edition is a ported version of Bitcoin Core designed to run without installation.
@@ -22,7 +22,7 @@ All configuration, blockchain data, and wallet files remain inside the portable 
 
 🔐 Ideal for cold storage scenarios
 
-#Use Cases
+## Use Cases
 
 Cold wallets and offline signing environments
 
@@ -34,7 +34,7 @@ Forensic or research environments
 
 Temporary or disposable workstations
 
-#How It Works
+## How It Works
 
 Bitcoin Core is configured to use relative paths
 
